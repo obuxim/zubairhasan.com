@@ -4,4 +4,4 @@ html, body, #__next {display:block; width: 100%; height: 100%;background:#262626
 .flex-column{display:flex; flex-direction:column;}
 .justify-center{justify-content:center;}
 .align-center{align-items:center;}
-section { height: 100%; }
+.h-100 { height: 100%; }

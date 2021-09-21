@@ -14,7 +14,7 @@ const index = () => {
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet" />
       </Head>
-      <section className="flex justify-center align-center">
+      <section className="flex justify-center align-center h-100">
           If you're here somehow. You already know who I am!
       </section>
     </>
