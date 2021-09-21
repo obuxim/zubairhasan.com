@@ -19,7 +19,7 @@ const index = () => {
         />
       </Head>
       <section className='flex justify-center align-center h-100'>
-        If you're here somehow. You already know who I am!
+        If {"you're"} here somehow. You already know who I am!
       </section>
     </>
   );
